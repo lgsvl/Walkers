@@ -2204,6 +2204,8 @@ SkinnedMeshRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 3
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -2215,6 +2217,7 @@ SkinnedMeshRenderer:
   m_ProbeAnchor: {fileID: 0}
   m_LightProbeVolumeOverride: {fileID: 0}
   m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
@@ -2290,6 +2293,6 @@ SkinnedMeshRenderer:
   m_BlendShapeWeights: []
   m_RootBone: {fileID: 6253766243615584838}
   m_AABB:
-    m_Center: {x: -0.0000005662441, y: -0.08186227, z: -0.12728935}
-    m_Extent: {x: 0.7222923, y: 0.17761967, z: 0.7888648}
+    m_Center: {x: 0.0016752332, y: -0.08521384, z: -0.09377366}
+    m_Extent: {x: 0.23463856, y: 0.16421339, z: 0.7553491}
   m_DirtyAABB: 0

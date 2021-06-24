@@ -1648,6 +1648,8 @@ SkinnedMeshRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 3
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -1659,6 +1661,7 @@ SkinnedMeshRenderer:
   m_ProbeAnchor: {fileID: 0}
   m_LightProbeVolumeOverride: {fileID: 0}
   m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
@@ -1734,8 +1737,8 @@ SkinnedMeshRenderer:
   m_BlendShapeWeights: []
   m_RootBone: {fileID: 5600284615818567283}
   m_AABB:
-    m_Center: {x: -0.00000032782555, y: -0.110145345, z: -0.12887436}
-    m_Extent: {x: 0.8095517, y: 0.18197025, z: 0.88997537}
+    m_Center: {x: 0.0018803477, y: -0.10074215, z: -0.08938086}
+    m_Extent: {x: 0.22467178, y: 0.17256705, z: 0.85048187}
   m_DirtyAABB: 0
 --- !u!1 &5600284615818658781
 GameObject:
